@@ -1,0 +1,5 @@
+city=Boston,epoch=10,loss=0.9904,acc=0.5968,error=0.4032,pre=0.9195,rec=0.9408,f1=0.9300
+city=Chicago,epoch=10,loss=0.9426,acc=0.6769,error=0.3231,pre=0.9497,rec=0.9397,f1=0.9447
+city=Los Angeles,epoch=10,loss=0.9921,acc=0.6054,error=0.3946,pre=0.9333,rec=0.9386,f1=0.9359
+city=New York,epoch=10,loss=0.9756,acc=0.6029,error=0.3971,pre=0.9375,rec=0.9374,f1=0.9375
+city=San Francisco,epoch=10,loss=1.0218,acc=0.6158,error=0.3842,pre=0.9446,rec=0.9475,f1=0.9461
